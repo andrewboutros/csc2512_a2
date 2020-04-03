@@ -1,0 +1,3 @@
+#!/bin/bash
+./maxino-static $1
+
